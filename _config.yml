@@ -76,9 +76,9 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: false
+#  facebook: false
   linkedin: true
-  vk: false
+#  vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
@@ -103,7 +103,7 @@ keywords: "machine learning,deep learning,reinforcement learning,deep reinforcem
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#77caf7"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
