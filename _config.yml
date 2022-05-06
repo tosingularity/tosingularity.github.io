@@ -15,10 +15,10 @@ author: Mukesh K
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://tosingularity.github.io"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://mukeshkr.com"
+  #Resources:
+  #  - Beautiful Jekyll: "https://tosingularity.github.io"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  #Author's home: "https://mukeshkr.com"
 
 # --- Logo --- #
 
@@ -27,7 +27,7 @@ navbar-links:
 avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: false
+round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
